@@ -1,6 +1,8 @@
 # Sign-Language-Interpreter
 Simple Sign Language Detector
 
+NOTE: This GUI is will work only between 6pm to 10pm.
+
 To see the Demonstration Video click [here](https://drive.google.com/file/d/1cz4pzbtqzcM11z1uDqzwdv3JAUlxjzrs/view?usp=drive_link) 
 
 ##To simply run this model:
